@@ -20,6 +20,11 @@ A frontend application for the "How Are You Doing Today" project, providing a us
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/alikalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikalan" height="30" width="40" /></a> <a href="[https://linkedin.com/in/alikalan](https://www.codewars.com/users/alikalan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/DennisSuitters/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-codewars.svg" alt="alikalan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ali-kalantarnia" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikalan" height="30" width="40" />
+  </a> 
+  <a href="https://www.codewars.com/users/alikalan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/DennisSuitters/LibreICONS/2d2172d15e3c6ca03c018629d60050e4b99e5c55/svg/libre-brand-codewars.svg" alt="alikalan" height="30" width="40" />
+  </a>
 </p>
 
